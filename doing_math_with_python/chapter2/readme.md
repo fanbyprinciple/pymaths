@@ -23,3 +23,6 @@ seems goofy
 
 ### expense tracker
 ![](expensetracker.png)
+
+### golden ratio
+![](fibo.png)
